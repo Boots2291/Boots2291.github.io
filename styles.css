@@ -1,0 +1,30 @@
+html body {
+  background-color: #dddbb3;
+}
+
+#intro {
+  text-align: center;
+  margin: auto;
+}
+
+.jumbotron {
+  background-color: #a3a29c;
+}
+
+.top-buffer {
+  margin-top: 5%;
+}
+
+.contact {
+  text-decoration: none;
+  color: black;
+}
+
+.col-md-1 {
+  margin-top: 4%;
+}
+
+.post {
+  background-color: #f7f3e6 !important;
+  box-shadow: black 1px 1px !important;
+}
